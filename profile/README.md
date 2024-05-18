@@ -19,4 +19,4 @@ N.Otuka, E.Dupont, V.Semkova, B.Pritychenko, A.I.Blokhin, M.Aikawa, S.Babykina, 
 [<a href="https://nds.iaea.org/nrdc/about/citation-exfor.txt" target="_new">BibTeX</a>].
 </p>
 
-<img src="./images/nrdc_small.png" alt="nrdc map" align="right"/> 
+<img src="./profile/images/nrdc_small.png" alt="nrdc map" align="right"/> 
