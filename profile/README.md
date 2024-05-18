@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" type="text/css" href="css/nrdc.css" />
+<link rel="stylesheet" type="text/css" href="css/nrdc.css"/>
 </head>
 <body>
 <h3>
