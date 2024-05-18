@@ -1,4 +1,4 @@
-<img src="./profile/images/nrdc-all.png" alt="nrdc map" align="right"/> 
+<img src="./profile/images/nrdc3.png" alt="nrdc map" align="right"/> 
 <h3>
 NRDC GitHub Test Homepage
 </h3>
