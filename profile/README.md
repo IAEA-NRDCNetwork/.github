@@ -1,7 +1,4 @@
 <head>
-<title>
-NRDC GitHub Test Homepage
-</title>
 <link rel="stylesheet" type="text/css" href="css/nrdc.css" />
 </head>
 <body>
