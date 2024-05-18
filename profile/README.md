@@ -1,7 +1,8 @@
-<h3>
+<h1>
 NRDC GitHub Test Homepage
-</h3>
+</h1>
 
+<h3>What is NRDC?</h3>
 <p>
 The <a href="https://nds.iaea.org/nrdc/">International Network of Nuclear Reaction Data Centres (NRDC)</a> constitutes a worldwide cooperation of nuclear data centres under the auspices of the International Atomic Energy Agency. The Network was established to coordinate the world-wide collection, compilation and dissemination of nuclear reaction data.
 </p>
