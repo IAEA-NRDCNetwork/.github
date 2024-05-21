@@ -6,7 +6,8 @@ NRDC GitHub Repository
 The <a href="https://nds.iaea.org/nrdc/">International Network of Nuclear Reaction Data Centres (NRDC)</a> constitutes a worldwide cooperation of nuclear data centres under the auspices of the International Atomic Energy Agency. The Network was established to coordinate the world-wide collection, compilation and dissemination of nuclear reaction data.
 </p>
 <p>
-This GitHub site is under preparation. A few tools presented in the NRDC meetings are registered for testing operation, and does not replace <a href="http://nds.iaea.org/nrdc/nrdc_sft/">NRDC Software</a> website.
+This GitHub site is under preparation, and a few tools presented in the NRDC meetings are registered for testing operation.
+This site does not replace the <a href="http://nds.iaea.org/nrdc/nrdc_sft/">NRDC Software</a> website.
 </p>
 <!--
 <p>
