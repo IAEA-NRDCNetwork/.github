@@ -1,7 +1,4 @@
 <img src="./profile/images/nrdc_small.png" alt="nrdc map" width="20%" align="right"/> 
-<!--
-<img src="./profile/images/iaea.png" alt="iaea logo" width="10%" align="right"/> 
--->
 <h3>
 NRDC GitHub Repository (under testing operation)
 </h3>
@@ -12,6 +9,7 @@ The <a href="https://nds.iaea.org/nrdc/">International Network of Nuclear Reacti
 This GitHub site is <b>under preparation</b>, and a few tools presented in the NRDC meetings are registered <b>for testing operation only</b>.
 This site does not replace the <a href="http://nds.iaea.org/nrdc/nrdc_sft/">NRDC Software</a> website.
 </p>
+<img src="./profile/images/iaea.png" alt="iaea logo" width="10%" align="right"/> 
 <!--
 <p>
 The <a href="https://nds.iaea.org/publications/nds/iaea-nds-0215/">NRDC Protocol</a> encourages free exchange of software and co-operation in software development between Centres.
