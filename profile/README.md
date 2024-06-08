@@ -1,4 +1,5 @@
 <img src="./profile/images/nrdc_small.png" alt="nrdc map" width="20%" align="right"/> 
+<img src="./profile/images/iaea.png" alt="iaea logo" width="20%" align="right"/> 
 <h3>
 NRDC GitHub Repository (under testing operation)
 </h3>
