@@ -7,8 +7,8 @@ The <a href="https://nds.iaea.org/nrdc/">International Network of Nuclear Reacti
 </p>
 <img src="./images/iaea.png" alt="iaea logo" width="10%" align="right"/> 
 <p>
-This GitHub site is <b>under preparation</b>, and a few tools presented in the NRDC meetings are registered <b>for testing operation only</b>.
-This site does not replace the <a href="http://nds.iaea.org/nrdc/nrdc_sft/">NRDC Software</a> website.
+This GitHub site is <b>under preparation</b>, and some files and tools presented in the NRDC meetings are registered <b>for testing operation only</b>.
+This site does not replace the files and tools distributed from the <a href="http://nds.iaea.org/nrdc/">NRDC website</a>.
 </p>
 <!--
 <p>
